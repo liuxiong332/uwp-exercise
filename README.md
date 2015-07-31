@@ -1,0 +1,1 @@
+This Repo is the exercise that develop some win10 UWP.
